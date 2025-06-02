@@ -2,4 +2,5 @@ final moved to github but not sure about the error...
 Know I am testing the steps again
 this is also updated and pushed without any issues. Now, I going to test it further....
 after this I am going to use branching operations and merge at the end.
- doing changes in the master branch and will see can we merge it main branch without any issues.
+doing changes in the master branch and will see can we merge it main branch without any issues.
+testing the branch switch and and trying the merging commands
